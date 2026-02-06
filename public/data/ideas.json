@@ -1,0 +1,19 @@
+[
+  {
+    "ideaId": "IDEA-SAMPLE-001",
+    "associateDomainId": "EMP001",
+    "associateName": "John Doe",
+    "function": "Engineering",
+    "teamLead": "Jane Smith",
+    "functionalManager": "Bob Johnson",
+    "state": "Active",
+    "applicationName": "Portal",
+    "specifyApplicationName": "",
+    "ideaName": "Automated Dashboard",
+    "problemStatement": "Manual dashboard updates are time-consuming",
+    "solution": "Create automated dashboard refresh system",
+    "savingsType": "Time",
+    "savingsComment": "Save 5 hours per week",
+    "submissionDateTime": "2026-02-06T10:30:00.000Z"
+  }
+]
